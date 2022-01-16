@@ -3,32 +3,23 @@ const bookmarks = [
   {
     title: "Daily",
     links: [
-      { name: "Inbox", url: "https://inbox.google.com" },
-      { name: "Reuters", url: "https://www.reuters.com/" },
-      { name: "Heimdall", url: "http://192.168.1.200:83/" },
+      { name: "Trello", url: "https://trello.com" },
+      { name: "Confluence", url: "https://confluence.nortal.com/" },
+      { name: "Jira", url: "https://jira.nortal.com/" },
     ],
   },  
   {
-    title: "Media",
+    title: "Mobility",
     links: [
-      { name: "Youtube", url: "https://www.youtube.com/feed/subscriptions" },
-      { name: "Sips", url: "https://twitch.tv/sips_" },
+      { name: "Mail", url: "https://outlook.office365.com/mail/" },
+      { name: "Calendar", url: "https://outlook.office365.com/calendar/view/month"},
+      { name: "Teams", url: "https://teams.microsoft.com"},
     ],
   },
   {
-    title: "Reddit",
+    title: "Admin",
     links: [
-      { name: "/r/iracing", url: "https://reddit.com/r/iRacing" },
-      {
-        name: "/r/formula1",
-        url: "https://reddit.com/r/formula1",
-      },
-    ],
-  },
-  {
-    title: "Social",
-    links: [
-      { name: "Twitter", url: "https://twitter.com" }
+      { name: "Timesheets", url: "https://jira.nortal.com/secure/Tempo.jspa#/my-work/week?type=LIST" }
     ],
   },
 ];
