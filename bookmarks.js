@@ -5,8 +5,9 @@ const bookmarks = [
     links: [
       { name: "Inbox", url: "https://inbox.google.com" },
       { name: "Reuters", url: "https://www.reuters.com/" },
+      { name: "Heimdall", url: "http://192.168.1.200:83/" },
     ],
-  },
+  },  
   {
     title: "Media",
     links: [
