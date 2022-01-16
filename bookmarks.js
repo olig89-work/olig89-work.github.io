@@ -12,8 +12,6 @@ const bookmarks = [
     links: [
       { name: "Youtube", url: "https://youtube.com" },
       { name: "Sips", url: "https://twitch.tv/sips_" },
-      { name: "Crunchyroll", url: "https://crunchyroll.com" },
-      { name: "Amazon Prime", url: "https://www.amazon.com/Amazon-Video" },
     ],
   },
   {
@@ -24,7 +22,6 @@ const bookmarks = [
         name: "/r/formula1",
         url: "https://reddit.com/r/formula1",
       },
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
     ],
   },
   {
