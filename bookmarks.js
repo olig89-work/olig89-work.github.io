@@ -11,7 +11,7 @@ const bookmarks = [
   {
     title: "Media",
     links: [
-      { name: "Youtube", url: "https://youtube.com" },
+      { name: "Youtube", url: "https://www.youtube.com/feed/subscriptions" },
       { name: "Sips", url: "https://twitch.tv/sips_" },
     ],
   },
